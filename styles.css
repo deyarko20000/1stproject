@@ -1,0 +1,79 @@
+p:hover {
+  text-decoration: underline;
+
+}
+a:link {
+  left: 1000px;
+position: absolute;
+
+left: 850px;
+top: 430px;
+width:200px;
+
+
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+h1
+{
+  position: absolute;
+  left: 880px;
+  top:200px;
+  width: 30%;
+  margin:10px auto 10px auto;
+}
+.img {
+  position: relative;
+top:0;
+}
+.creatid
+{
+  position: absolute;
+  top: 0;
+left: 1550px;
+}
+.help
+{
+
+  position: absolute;
+  top: 0;
+  left: 1700px;
+}
+.firstccontanier {
+  position: absolute;
+  left: 850px;
+  top: 300px;
+  width: 30%;
+
+}
+
+.secondcontanier {
+  padding-right: 20px;
+    left: 1000px;
+  position: absolute;
+  left: 853px;
+  top: 330px;
+  width: 30%;
+
+
+}
+.box {
+    left: 1000px;
+  position: absolute;
+  left: 845px;
+  top: 400px;
+  width: 30%;
+
+
+}
+.thirdcontanier {
+    left: 1000px;
+  position: absolute;
+
+  left: 945px;
+  top: 360px;
+  width: 30%;
+
+}
